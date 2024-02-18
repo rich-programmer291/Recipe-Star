@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Recipe-Star/static/css/main.2be7a492.css",
+    "main.js": "/Recipe-Star/static/js/main.aba9c894.js",
+    "index.html": "/Recipe-Star/index.html",
+    "main.2be7a492.css.map": "/Recipe-Star/static/css/main.2be7a492.css.map",
+    "main.aba9c894.js.map": "/Recipe-Star/static/js/main.aba9c894.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2be7a492.css",
+    "static/js/main.aba9c894.js"
+  ]
+}
